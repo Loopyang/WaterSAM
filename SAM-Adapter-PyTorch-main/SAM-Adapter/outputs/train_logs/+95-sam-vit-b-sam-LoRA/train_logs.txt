@@ -1,0 +1,56 @@
+
+[2024-08-28 12:04:16] Start Training Epoch: 000, Learning Rate: 0.001
+
+[2024-08-28 12:08:02] Start Training Epoch: 000, Learning Rate: 0.001
+
+[2024-08-28 12:13:13] Start Training Epoch: 001, Learning Rate: 0.001
+
+[2024-08-28 12:21:19] Start Training Epoch: 000, Learning Rate: 0.001
+
+[2024-08-28 12:26:30] Start Training Epoch: 001, Learning Rate: 0.001
+
+[2024-08-28 12:31:42] Start Training Epoch: 002, Learning Rate: 0.001
+
+[2024-08-28 12:36:54] Start Training Epoch: 003, Learning Rate: 0.001
+
+[2024-08-28 12:42:07] Start Training Epoch: 004, Learning Rate: 0.001
+
+[2024-08-28 12:47:18] Start Training Epoch: 005, Learning Rate: 0.001
+
+[2024-08-28 12:52:27] Start Training Epoch: 006, Learning Rate: 0.001
+
+[2024-08-28 13:18:29] Start Training Epoch: 000, Learning Rate: 0.001
+
+[2024-08-28 13:23:33] Start Training Epoch: 001, Learning Rate: 0.001
+
+[2024-08-28 13:28:39] Start Training Epoch: 002, Learning Rate: 0.001
+
+[2024-08-28 13:33:43] Start Training Epoch: 003, Learning Rate: 0.001
+
+[2024-08-28 13:38:51] Start Training Epoch: 004, Learning Rate: 0.001
+
+[2024-08-28 13:43:58] Start Training Epoch: 005, Learning Rate: 0.001
+
+[2024-08-28 13:49:04] Start Training Epoch: 006, Learning Rate: 0.001
+
+[2024-08-28 13:54:11] Start Training Epoch: 007, Learning Rate: 0.001
+
+[2024-08-28 13:59:17] Start Training Epoch: 008, Learning Rate: 0.001
+
+[2024-08-28 14:04:23] Start Training Epoch: 009, Learning Rate: 0.001
+
+[2024-08-28 14:09:30] Start Training Epoch: 010, Learning Rate: 0.001
+
+[2024-08-28 14:14:36] Start Training Epoch: 011, Learning Rate: 0.001
+
+[2024-08-28 14:19:42] Start Training Epoch: 012, Learning Rate: 0.001
+
+[2024-08-28 14:24:48] Start Training Epoch: 013, Learning Rate: 0.001
+
+[2024-08-28 14:29:55] Start Training Epoch: 014, Learning Rate: 0.001
+
+[2024-08-28 14:37:39] Start Training Epoch: 015, Learning Rate: 0.001
+
+[2024-08-28 14:42:45] Start Training Epoch: 016, Learning Rate: 0.001
+
+[2024-08-28 14:47:52] Start Training Epoch: 017, Learning Rate: 0.001

@@ -1,0 +1,23 @@
+# cache
+__pycache__/
+*.py[cod]
+
+# virtual env
+venv/
+env/
+
+# IDE 
+.vscode/
+.idea/
+
+*.pth
+*.pt
+*.onnx
+weights/
+checkpoints/
+
+dataset/
+data/
+*.mp4
+*.png
+*.jpg

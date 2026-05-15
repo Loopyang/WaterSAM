@@ -1,0 +1,18 @@
+# requirements.txt
+
+# Standard libraries (usually don't need to be listed in requirements.txt)
+# os
+# math (part of Python standard library)
+
+# Common Python libraries
+numpy==1.22.1  # or any other version you need
+torch==1.11.0  # PyTorch, adjust version according to your CUDA compatibility
+tqdm==4.62.3   # Progress bar for loops
+
+# Libraries from torch ecosystem
+torchvision==0.12.0  # Often used along with torch for image processing, if needed
+
+# Optional, if you use them in your code
+# import_module is part of Python's importlib, so no need to list
+# datetime is part of Python's standard library, so no need to list
+
