@@ -98,12 +98,15 @@ python adapter.py
 If you find this work useful for your research, please cite:
 
 ```bibtex
-@inproceedings{hong2024watersam,
-  title={WaterSAM: Adapting SAM for Underwater Object Segmentation},
-  author={Hong, Yang and Zhou, Xiaowei and Hua, Ruzhuang and Lyv, Qingxuan and Dong, Junyu},
-  booktitle={Proceedings of Conference XX},
+@article{hong2024watersam,
+  title={Watersam: Adapting sam for underwater object segmentation},
+  author={Hong, Yang and Zhou, Xiaowei and Hua, Ruzhuang and Lv, Qingxuan and Dong, Junyu},
+  journal={Journal of Marine Science and Engineering},
+  volume={12},
+  number={9},
+  pages={1616},
   year={2024},
-  publisher={ACM}
+  publisher={MDPI}
 }
 ```
 
